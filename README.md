@@ -1,4 +1,4 @@
-# <h1>Hi, I'm Annie. &#9787; </h1>;
+# <h1>Hi, I'm Annie. &#9787; </h1>
 I'm a beginner developer of web.
 I keep learing new technology and skills of web.
 </br>
@@ -12,10 +12,10 @@ I keep learing new technology and skills of web.
 <p>&#10048;    CSS3, SCSS, SASS</p>
 <p>&#10048;    Tailwind CSS, Bootstrap 5</p>
 <p>&#10048;    JavaScript, jQuery</p>
-<p>&#10048;    React.js, Redux, React-Router</p>
 <p>&#10048;    Mithril.js, Routing</p>
+<p>&#10048;    React.js, Redux, React-Router</p>
 <p>&#10048;    Ruby, Ruby on Rails</p>
-<p>&#10048;    C#, ASP dot net core, MVC, Razor Page</p>
+<p>&#10048;    C#, ASP.NET Core, MVC, Razor Page</p>
 
 
 ### <font color="#211E55">Tools</font>
