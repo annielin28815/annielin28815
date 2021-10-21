@@ -15,12 +15,11 @@ I keep learing new technology and skills of web.
 <p>&#10004;    Mithril.js, Routing</p>
 <p>&#10004;    React.js, Redux, React-Router</p>
 <p>&#10004;    Ruby, Ruby on Rails</p>
-<p>&#10004;    C#, ASP.NET Core, MVC, Razor Page</p>
 
 ### <font color="#211E55">Tools</font>
 
 <p>&#10004;    Version Control(Git)</p>
-<p>&#10004;    SQL, MySQL, PostgreSQL, MsSQL</p>
+<p>&#10004;    SQL, MySQL, PostgreSQL, MSSQL</p>
 <p>&#10004;    AWS</p>
 <p>&#10004;    Figma</p>
 
