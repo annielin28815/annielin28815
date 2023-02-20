@@ -24,6 +24,6 @@ Version Control(Git), Adobe XD, Figma, SQL, MySQL
 </a>
 
 
-<a href="https://medium.com/annielin28815" target="_blank">
+<a href="https://annielin28815.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-8db197?style=for-the-badge&logo=Personio" />
 </a>
