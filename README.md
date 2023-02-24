@@ -2,11 +2,10 @@
 I'm a beginner developer of web.
 I keep learing new technology and skills of web.
 
-
-
 ### Languages
 
-HTML5, CSS3, ANT Design, Bootstrap, Tailwind CSS,JavaScript, jQuery,  React.js, Ruby
+HTML5, CSS3, ANT Design, Bootstrap, Tailwind CSS, 
+JavaScript, jQuery, Vue.js, React.js, TypeScript, Ruby
 
 ### Tools
 
