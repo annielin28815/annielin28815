@@ -4,8 +4,8 @@ I keep learing new technology and skills of web.
 
 ### Languages
 
-HTML5, CSS3, ANT Design, Bootstrap, Tailwind CSS, 
-JavaScript, jQuery, Vue.js, React.js, TypeScript, Ruby
+HTML5, CSS3, ANT Design, Bootstrap5, Tailwind CSS, 
+JavaScript, jQuery, Vue.js, React.js, TypeScript, Node.js, Ruby
 
 ### Tools
 
